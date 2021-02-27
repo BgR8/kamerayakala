@@ -1,0 +1,17 @@
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\Aforge.exe.config
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\Aforge.exe
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\Aforge.pdb
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\AForge.dll
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\AForge.Video.dll
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\AForge.xml
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\AForge.Video.xml
+C:\Users\yeni\Desktop\aForge\Aforge\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.csprojAssemblyReference.cache
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.Form1.resources
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.Properties.Resources.resources
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.csproj.GenerateResource.cache
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.csproj.CoreCompileInputs.cache
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.csproj.CopyComplete
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.exe
+C:\Users\yeni\Desktop\aForge\Aforge\obj\Debug\Aforge.pdb
