@@ -1,3 +1,10 @@
+## AForge.NET kütüphanesini kur
+```
+using AForge.Video;
+using AForge.Video.DirectShow;
+```
+
+
 ## Bilgisayara bağlı kameraları dizinde tut
 `FilterInfoCollection`
 ## Kamerayı Yakala
