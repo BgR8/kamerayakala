@@ -3,6 +3,13 @@
 ## Kamerayı Yakala
 `VideoCaptureDevice`
 
-## Form içerisinde FilterInfoCollection ile kameraları ComboBox içerisinde listele
+## Kameraları Liste kutusunda Listele
+```
+foreach(FilterInfo f in fico)
+    {
+        comboBox1.Items.Add(f.Name);
+        comboBox1.SelectedIndex = 0;
+    }
+```
 
-## Button1_Click ile ComboBox'ta seçili kamerayı `PictureBox.Image` ile göster.
+## Başlat butonu ile listede seçili kamerayı göster.
